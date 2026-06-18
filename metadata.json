@@ -1,0 +1,6 @@
+{
+  "name": "Avishek's Trip Vault Gallery",
+  "description": "A private trip media gallery that automatically separates and organizes photos and videos from Google Drive with smart filters, instant sync, and details metadata edit custom controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
